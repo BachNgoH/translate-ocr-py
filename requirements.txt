@@ -1,0 +1,9 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+Flask-RESTful==0.3.8
+gunicorn==19.9.0
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
+easyocr==1.4
+opencv-python-headless==4.5.1.48
