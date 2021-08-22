@@ -7,3 +7,5 @@ torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 easyocr==1.4
 opencv-python-headless==4.5.1.48
+sumy==0.8.1
+transformers==4.9.0
